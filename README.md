@@ -6,7 +6,7 @@ PROGRAMA 60
 
   ISMAEL
 
-![Descripción de la imagen](images/OIP%20(1).jpg)
+![OIP (1).jpg](images/OIP%20(1).jpg)
 
    https://www.bing.com/videos/riverview/relatedvideo?q=amar+y+querer&&mid=3890921696FA47C654E63890921696FA47C654E6&FORM=VCGVRP
 
